@@ -1,0 +1,9 @@
+---
+ov_local_address: 100.0.0.174   
+ov_loopback_01: 10.2.3.74
+ov_loopback_02: 10.2.3.174  
+ibgp:
+   - ibgp_peer: 100.0.0.172
+   - ibgp_peer: 100.0.0.175
+   - ibgp_peer: 100.0.0.188
+   - ibgp_peer: 100.0.0.189
